@@ -14,6 +14,6 @@ java -jar path/to/jar/file/SimpleWeatherAPI.jar
 
 ```
 
-Open [[http://localhost:3000](http://localhost:8080/weather?latitude=52.52&longitude=13.419998)](http://localhost:8080/weather?latitude=52.52&longitude=13.419998) with your browser to see the result.
+Open [(http://localhost:8080/weather?latitude=52.52&longitude=13.419998)](http://localhost:8080/weather?latitude=52.52&longitude=13.419998) with your browser to see the result.
 
 You can change latitude and longitude parameters.
