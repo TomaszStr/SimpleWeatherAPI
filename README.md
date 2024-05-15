@@ -33,3 +33,11 @@ This project is a web application that fetches data from an external API endpoin
 - [https://fontawesome.com/](https://fontawesome.com/) weather icons
 
   ## Screenshots
+Site:
+![Frontend screenshot](screens/front1.png)
+![Frontend screenshot](screens/front2.png)
+![Frontend screenshot](screens/front3.png)
+![Frontend screenshot](screens/front4.png)
+![Frontend screenshot](screens/front5.png)
+Data format:
+![Backend screenshot](screens/backend1.png)
