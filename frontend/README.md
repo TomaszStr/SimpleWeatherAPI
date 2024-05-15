@@ -1,11 +1,16 @@
 ## SimpleWeatherAPI frontend
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## How to run
 
 First, run the development server:
 
 ```bash
+#install all packages
+npm install
+#build project
+npm build
+#run
 npm run dev
 # or
 yarn dev
